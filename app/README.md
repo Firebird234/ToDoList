@@ -12,15 +12,15 @@
 
 ### Главная страница
 
-![Alt-текст](./src/images/main.PNG "main")
+![Alt-текст](./src/images/1.PNG "main")
 
 ### Страница с товарами
 
-![Alt-текст](./src/images/category.PNG "main")
+![Alt-текст](./src/images/2.PNG "main")
 
 ### Страница с корзиной
 
-![Alt-текст](./src/images/bucket.PNG "main")
+![Alt-текст](./src/images/3.PNG "main")
 
 ### Стек:
 
@@ -45,3 +45,5 @@
 4. Запустить проект npm start.
 
 ### Демо:
+
+https://to-do-list-r1lt.vercel.app/
